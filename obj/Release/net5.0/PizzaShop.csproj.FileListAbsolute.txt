@@ -1,0 +1,16 @@
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/bin/Release/net5.0/PizzaShop
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/bin/Release/net5.0/PizzaShop.deps.json
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/bin/Release/net5.0/PizzaShop.runtimeconfig.json
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/bin/Release/net5.0/PizzaShop.runtimeconfig.dev.json
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/bin/Release/net5.0/PizzaShop.dll
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/bin/Release/net5.0/PizzaShop.pdb
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/PizzaShop.csproj.AssemblyReference.cache
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/PizzaShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/PizzaShop.AssemblyInfoInputs.cache
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/PizzaShop.AssemblyInfo.cs
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/PizzaShop.csproj.CoreCompileInputs.cache
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/PizzaShop.dll
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/refint/PizzaShop.dll
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/PizzaShop.pdb
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/PizzaShop.genruntimeconfig.cache
+/Users/katyakurkubet/Projects/TMPS/PizzaShop/obj/Release/net5.0/ref/PizzaShop.dll
